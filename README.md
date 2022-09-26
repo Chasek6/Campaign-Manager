@@ -3,14 +3,22 @@
 
   ## Table of Contents:
   1. [Description](#description)
-  2. [Installation](#installation)
-  3. [Usage](#usage)
-  4. [License](#license)
-  5. [Credits](#credits)
+  2. [Screenshot] (#Screenshot)
+  3. [Installation](#installation)
+  4. [Usage](#usage)
+  5. [License](#license)
+  6. [Credits](#credits)
+  
+
 
   ## Description 
 
   Full stack application using node.js, express.js, mysql2, sequelize, express-handlebars, sequelize to organize and manage Campaigns in DND. Users can login as either a dm or a player. As dms, a user can login and create campaigns they are involved in to manage. As players, users can log in to join different campaigns and store their characters linked to different campaigns.
+
+
+
+## Screenshot 
+![CM1-logo](https://user-images.githubusercontent.com/108581086/192383014-9f70ec87-a522-4c3a-a534-f027abec81c0.png)
 
 
   ## Installation 
